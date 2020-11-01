@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>532346524547-7gdbh16gt050j53adqm07tcrgoshss69.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.532346524547-7gdbh16gt050j53adqm07tcrgoshss69</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>532346524547-vme6r9qh2pg3cebkhikacgpid1h5lhor.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAVZD6H_guTeX8cm6kxCl1EIb_DFVFevsw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>532346524547</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.googleMeetApp</string>
+	<key>PROJECT_ID</key>
+	<string>meettemplate</string>
+	<key>STORAGE_BUCKET</key>
+	<string>meettemplate.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:532346524547:ios:0a527224443ee07cfb9cb6</string>
+	<key>DATABASE_URL</key>
+	<string>https://meettemplate.firebaseio.com</string>
+</dict>
+</plist>

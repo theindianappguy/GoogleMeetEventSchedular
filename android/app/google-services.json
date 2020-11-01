@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "532346524547",
+    "firebase_url": "https://meettemplate.firebaseio.com",
+    "project_id": "meettemplate",
+    "storage_bucket": "meettemplate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532346524547:android:3b0b5f0a08e7f719fb9cb6",
+        "android_client_info": {
+          "package_name": "com.example.google_meet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532346524547-vme6r9qh2pg3cebkhikacgpid1h5lhor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_meet_app",
+            "certificate_hash": "ac0c10d19a0c6c05334e4691ff11fadf39edc4f9"
+          }
+        },
+        {
+          "client_id": "532346524547-fkor96ikhh3sfba426tp53qf8dts28bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC88jpHcYpyXZdPqnbWFH3lxLgLZh_YiV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532346524547-fkor96ikhh3sfba426tp53qf8dts28bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
