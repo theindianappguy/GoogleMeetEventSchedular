@@ -1,6 +1,6 @@
 # GoogleMeetEventSchedular
 
-A new Flutter project.
+Flutter app to Create, Edit, Delete Google Meet Event and Add add, delete them to Google calendar.
 
 ## Getting Started
 
