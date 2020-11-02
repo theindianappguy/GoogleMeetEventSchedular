@@ -1,4 +1,4 @@
-# google_meet_app
+# GoogleMeetEventSchedular
 
 A new Flutter project.
 
